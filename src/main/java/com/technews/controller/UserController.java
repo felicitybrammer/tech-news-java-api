@@ -1,5 +1,5 @@
 package com.technews.controller;
-
+import org.springframework.web.bind.annotation.RestController;
 import com.technews.model.Post;
 import com.technews.model.User;
 import com.technews.repository.UserRepository;
