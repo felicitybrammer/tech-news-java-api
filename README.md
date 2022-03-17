@@ -1,8 +1,11 @@
 # TECH NEWS JAVA API
 
+## Live App
+https://cc-java-api-technews.herokuapp.com/
+
 ## Description
 
-A full-stack tech news app backed by a server-side Java Spring Boot API. This is a refactor of Back to The Tech (), which is backed by a server-side Express.js API.
+A full-stack tech news app backed by a server-side Java Spring Boot API. This is a refactor of Back to The Tech (https://github.com/felicitybrammer/back-to-the-tech), which is backed by a server-side Express.js API.
 
 ## Built With
 
