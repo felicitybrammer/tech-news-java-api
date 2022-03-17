@@ -1,5 +1,16 @@
 # TECH NEWS JAVA API
 
+## Description
+
+A full-stack tech news app backed by a server-side Java Spring Boot API. This is a refactor of Back to The Tech (), which is backed by a server-side Express.js API.
+
+## Built With
+
+* Java
+* Spring Boot
+* Thymeleaf
+* 
+
 
 
 
